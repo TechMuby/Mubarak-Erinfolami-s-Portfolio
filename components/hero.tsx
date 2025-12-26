@@ -98,14 +98,15 @@ export function Hero() {
 
         <div className="mt-20 flex gap-4 flex-wrap justify-center">
           <a
-            href="#portfolio"
+            href="#projects"
             className="px-8 py-3 border-2 border-primary bg-primary text-white uppercase tracking-widest text-sm hover:bg-white hover:text-black hover:border-white transition-all duration-300 rounded-full font-light"
           >
             View My Work
           </a>
           <a
-            href="/Mubarak-Erinfolami-CV.pdf"
-            download
+            href="https://drive.google.com/file/d/1waUYeC373EcRqkGBXR9qBwVEt1MAtieo/view?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
             className="px-8 py-3 border-2 border-white text-white uppercase tracking-widest text-sm hover:bg-white hover:text-black hover:border-white transition-all duration-300 rounded-full font-light"
           >
             Download CV
