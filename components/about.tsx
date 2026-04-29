@@ -29,14 +29,13 @@ export function About() {
               Embedded Systems & IoT Engineer
             </h3>
             <p className="text-muted-foreground mb-6 leading-loose">
-              I am an Embedded Systems &amp; IoT Engineer dedicated to sustainable innovation. My work focuses on
-              building practical solutions for energy, water management, and environmental challenges. From smart grids
-              to precision agriculture, I use technology to solve real-world problems.
+              I don&apos;t just study engineering—I use it to solve real problems. My approach is grounded in building practical systems that move beyond theory and create measurable impact. From smart grid protection to precision agriculture and aquaponics, my work focuses on applying embedded systems and engineering principles to challenges in energy, water management, and environmental sustainability.
             </p>
             <p className="text-muted-foreground mb-8 leading-loose">
-              As a British Council IAU Ambassador and award-winning innovator, I have been recognized at both national
-              and international levels for projects like AquaVise—an IoT-based aquaponics system. I combine deep
-              technical expertise with a strong commitment to community impact.
+              I currently serve as a British Council (Innovation for African Universities) Ambassador, collaborating with students and professionals across disciplines and institutions within and beyond Nigeria to drive innovation, entrepreneurship, and research-led development. My work has been recognized through multiple awards at both national and international innovation challenges.
+            </p>
+            <p className="text-muted-foreground mb-8 leading-loose">
+              I&apos;m open to collaborations, research opportunities, and engineering roles where technology meets purpose and delivers measurable impact.
             </p>
 
             {/* Skills Progress */}
